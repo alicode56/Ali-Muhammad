@@ -1,0 +1,28 @@
+.blogs {
+  font-family: 'Quicksand', sans-serif;
+  margin-top: 50px;
+  padding: 0;
+  width: 100vw;
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 60px;
+
+}
+.blogs button {
+  background-color: #ff6f61;
+  text-align: center;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.blogs button:hover {
+  background-color: #A61E24;
+}
